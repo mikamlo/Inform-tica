@@ -11,7 +11,7 @@ Arquivo:https://github.com/mikamlo/Inform-tica/commit/a1d7603b1307d1a0c75f550d64
 3 - Power BI - 1º Trabalho
 Preparei um arquivo contendo indicadores e links para imagens representativas de cada um. No Power BI, organizei esses dados, estabelecendo relações dinâmicas entre os indicadores e suas respectivas figuras. O uso do Power BI foi crucial para gerar visualizações interativas, facilitando a análise e compreensão dos indicadores junto às imagens.
 
-Arquivo:
+Arquivo:https://github.com/mikamlo/Inform-tica/blob/main/Trabalho%202.pbix
 
 3 - Power BI - 2º Trabalho
 Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas informações coletadas. No Power BI, criei visualizações que respondem a essas questões e organizei tudo em um painel com título.
