@@ -1,7 +1,7 @@
 1 - Excel
 Realizamos um projeto no Excel utilizando fórmulas essenciais para análise de dados, como SOMA, CONT.SE, SOMASE e SE. O objetivo foi aplicar essas funções para solucionar questões práticas e facilitar o manejo de grandes volumes de informações.
 
-Arquivo:https:
+Arquivo:https://github.com/mikamlo/Inform-tica/blob/main/Trabalho%20Informatica.xlsx
 
 2 - Excel
 Reunimos dados de fontes abertas e formulamos cinco questões sobre essas informações. Utilizamos funções no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para responder às perguntas e criamos gráficos que ilustram os resultados obtidos.
