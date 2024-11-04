@@ -21,3 +21,4 @@ Arquivohttps://github.com/mikamlo/Inform-tica/blob/main/info.pbix
 4 - Power BI- 3° trabalho
 Utilizando o mesmo banco de dados da tarefa 2, elaborei 3 metas utilizando o sistema de medidas e KPI
 
+https://github.com/mikamlo/Inform-tica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
