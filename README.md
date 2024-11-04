@@ -19,3 +19,5 @@ Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas
 Arquivohttps://github.com/mikamlo/Inform-tica/blob/main/info.pbix
 
 4 - Power BI- 3° trabalho
+Utilizando o mesmo banco de dados da tarefa 2, elaborei 3 metas utilizando o sistema de medidas e KPI
+
