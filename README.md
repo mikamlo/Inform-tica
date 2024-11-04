@@ -17,3 +17,5 @@ Arquivo:https://github.com/mikamlo/Inform-tica/blob/main/Trabalho%202.pbix
 Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas informações coletadas. No Power BI, criei visualizações que respondem a essas questões e organizei tudo em um painel com título.
 
 Arquivohttps://github.com/mikamlo/Inform-tica/blob/main/info.pbix
+
+4 - Power BI- 3° trabalho
