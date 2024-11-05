@@ -21,7 +21,7 @@ Arquivohttps://github.com/mikamlo/Inform-tica/blob/main/info.pbix
 
 5-Power BI- 3° Trabalho
 Criei 3 vistas diferentes para um banco de dados.
-
+https://github.com/mikamlo/Inform-tica/blob/main/Power%20BI%203.pbix
 
 6 - Power BI- 3° trabalho
 Utilizando o mesmo banco de dados da tarefa 2, elaborei 3 metas utilizando o sistema de medidas e KPI
