@@ -13,12 +13,17 @@ Preparei um arquivo contendo indicadores e links para imagens representativas de
 
 Arquivo:https://github.com/mikamlo/Inform-tica/blob/main/Trabalho%202.pbix
 
-3 - Power BI - 2º Trabalho
+4- Power BI - 2º Trabalho
 Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas informações coletadas. No Power BI, criei visualizações que respondem a essas questões e organizei tudo em um painel com título.
 
 Arquivohttps://github.com/mikamlo/Inform-tica/blob/main/info.pbix
 
-4 - Power BI- 3° trabalho
+
+5-Power BI- 3° Trabalho
+Criei 3 vistas diferentes para um banco de dados.
+
+
+6 - Power BI- 3° trabalho
 Utilizando o mesmo banco de dados da tarefa 2, elaborei 3 metas utilizando o sistema de medidas e KPI
 
 https://github.com/mikamlo/Inform-tica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
