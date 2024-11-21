@@ -39,3 +39,9 @@ Utilizando o mesmo banco de dados da tarefa 2, elaborei 3 metas utilizando o sis
 
 
 Arquivo: https://github.com/mikamlo/Inform-tica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
+
+7- Powe APPs- Usando o Copilot, criei um aplicativo via Power APPS.
+Em seguida, gravei um pequeno vídeo do App funcionando, mostrando o funcionamento do aplicativo.
+
+
+
