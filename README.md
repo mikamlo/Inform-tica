@@ -48,7 +48,8 @@ https://github.com/mikamlo/Inform-tica/blob/main/Power%20Apps%20-%20Google%20Chr
 - Um gráfico mostrando a quantidade de alunos de cada idioma;
 - Um cartão com a quantidade total de alunos matrículados;
 - O total de alunos e classes aos sábados.
-- ![image](https://github.com/user-attachments/assets/9ebf01ea-7471-43d6-b5ab-4c7a9466ec7c)
+
+![image](https://github.com/user-attachments/assets/6433a74e-4dfe-4def-99af-23077df5bc20)
 
 
 
