@@ -46,7 +46,7 @@ https://github.com/mikamlo/Inform-tica/blob/main/Power%20Apps%20-%20Google%20Chr
 
 8- Dashboard prova- Utilizei um conjunto de dados de alunos matrículados em uma escola de idiomas e elaborei 3 vistas com algumas informações sobre os dados, sendo elas:
 - Um gráfico mostrando a quantidade de alunos de cada idioma;
-- Um cartão com a quantidade total de alunos matrículados;
+- Um cartão com a quantidade total de alunos matriculados;
 - O total de alunos e classes aos sábados.
 
 ![image](https://github.com/user-attachments/assets/6433a74e-4dfe-4def-99af-23077df5bc20)
