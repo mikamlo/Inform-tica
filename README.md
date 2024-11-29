@@ -44,7 +44,7 @@ Arquivo: https://github.com/mikamlo/Inform-tica/blob/main/Power%20BI%204.pbix%20
 Em seguida, gravei um pequeno vídeo do App funcionando, mostrando o funcionamento do aplicativo.
 https://github.com/mikamlo/Inform-tica/blob/main/Power%20Apps%20-%20Google%20Chrome%202024-11-21%2019-43-14_Trim.mp4
 
-8- Dashboard prova- Utilizei um conjunto de dados de alunos matriculados em uma escola de idiomas e elaborei 3 vistas com algumas informações sobre os dados, sendo elas:
+8- Dashboard prova- Utilizei um conjunto de dados de alunos matrículados em uma escola de idiomas e elaborei 3 vistas com algumas informações sobre os dados, sendo elas:
 - Um gráfico mostrando a quantidade de alunos de cada idioma;
 - Um cartão com a quantidade total de alunos matrículados;
 - O total de alunos e classes aos sábados.
