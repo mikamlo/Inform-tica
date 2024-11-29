@@ -51,7 +51,7 @@ https://github.com/mikamlo/Inform-tica/blob/main/Power%20Apps%20-%20Google%20Chr
 
 ![image](https://github.com/user-attachments/assets/6433a74e-4dfe-4def-99af-23077df5bc20)
 
-
+Arquivo: https://github.com/mikamlo/Inform-tica/blob/main/Power%20Bi%201.pbix
 
 
 
